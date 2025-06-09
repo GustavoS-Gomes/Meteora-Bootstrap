@@ -1,0 +1,27 @@
+.btn-custom {
+    background-color: #9353ff;
+    color: white ;
+}
+.facilidades-card{
+    background-color: black  ;
+}
+.little-text{
+    font-size: 13px; 
+}
+.divs-facilidades{
+    color: white;
+    width: 100%
+}
+.icone-ilustrativo {
+    color: #DAFF01;
+}
+.titulo-facilidades {
+    color: #DAFF01;}
+
+@media(min-width: 768px) {
+
+    .novidades-cadastro {
+        width: 696px;
+    }
+
+}
